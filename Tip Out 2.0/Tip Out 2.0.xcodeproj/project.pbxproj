@@ -1,0 +1,430 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4EB9B9F629107844003DBAED /* Tip_Out_2_0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9B9F529107844003DBAED /* Tip_Out_2_0App.swift */; };
+		4EB9B9F829107844003DBAED /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9B9F729107844003DBAED /* ContentView.swift */; };
+		4EB9B9FA29107845003DBAED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB9B9F929107845003DBAED /* Assets.xcassets */; };
+		4EB9B9FD29107845003DBAED /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EB9B9FC29107845003DBAED /* Preview Assets.xcassets */; };
+		4EB9BA062910794E003DBAED /* InputDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA052910794E003DBAED /* InputDisplayView.swift */; };
+		4EB9BA0829107981003DBAED /* BasicTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA0729107981003DBAED /* BasicTextView.swift */; };
+		4EB9BA0A291079CC003DBAED /* NameAndHoursDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA09291079CC003DBAED /* NameAndHoursDisplayView.swift */; };
+		4EB9BA0C291079E6003DBAED /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA0B291079E6003DBAED /* InfoView.swift */; };
+		4EB9BA0E29107A28003DBAED /* BackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA0D29107A28003DBAED /* BackButton.swift */; };
+		4EB9BA1029107A5F003DBAED /* RemoveButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA0F29107A5F003DBAED /* RemoveButton.swift */; };
+		4EB9BA1429107ABD003DBAED /* NameAndHoursTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA1329107ABD003DBAED /* NameAndHoursTableView.swift */; };
+		4EB9BA1629107AE0003DBAED /* NameAndPercentTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA1529107ADF003DBAED /* NameAndPercentTableView.swift */; };
+		4EB9BA1829107B1C003DBAED /* TipOutReportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA1729107B1C003DBAED /* TipOutReportView.swift */; };
+		4EB9BA1C29107B66003DBAED /* CustomKeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EB9BA1B29107B66003DBAED /* CustomKeyboardView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4EA70DED2911C3BC00F1C944 /* Tip-Out-2-0-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Tip-Out-2-0-Info.plist"; sourceTree = SOURCE_ROOT; };
+		4EB9B9F229107844003DBAED /* Tip Out 2.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Tip Out 2.0.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4EB9B9F529107844003DBAED /* Tip_Out_2_0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_Out_2_0App.swift; sourceTree = "<group>"; };
+		4EB9B9F729107844003DBAED /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		4EB9B9F929107845003DBAED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4EB9B9FC29107845003DBAED /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4EB9BA052910794E003DBAED /* InputDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InputDisplayView.swift; path = "../../../../../Library/Mobile Documents/com~apple~CloudDocs/InputDisplayView.swift"; sourceTree = "<group>"; };
+		4EB9BA0729107981003DBAED /* BasicTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicTextView.swift; sourceTree = "<group>"; };
+		4EB9BA09291079CC003DBAED /* NameAndHoursDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NameAndHoursDisplayView.swift; path = ../../../../../Downloads/NameAndHoursDisplayView.swift; sourceTree = "<group>"; };
+		4EB9BA0B291079E6003DBAED /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
+		4EB9BA0D29107A28003DBAED /* BackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = BackButton.swift; path = ../../../../BackButton.swift; sourceTree = "<group>"; };
+		4EB9BA0F29107A5F003DBAED /* RemoveButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoveButton.swift; sourceTree = "<group>"; };
+		4EB9BA1329107ABD003DBAED /* NameAndHoursTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameAndHoursTableView.swift; sourceTree = "<group>"; };
+		4EB9BA1529107ADF003DBAED /* NameAndPercentTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameAndPercentTableView.swift; sourceTree = "<group>"; };
+		4EB9BA1729107B1C003DBAED /* TipOutReportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipOutReportView.swift; sourceTree = "<group>"; };
+		4EB9BA1B29107B66003DBAED /* CustomKeyboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomKeyboardView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4EB9B9EF29107844003DBAED /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4EB9B9E929107844003DBAED = {
+			isa = PBXGroup;
+			children = (
+				4EB9B9F429107844003DBAED /* Tip Out 2.0 */,
+				4EB9B9F329107844003DBAED /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4EB9B9F329107844003DBAED /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9B9F229107844003DBAED /* Tip Out 2.0.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4EB9B9F429107844003DBAED /* Tip Out 2.0 */ = {
+			isa = PBXGroup;
+			children = (
+				4EA70DED2911C3BC00F1C944 /* Tip-Out-2-0-Info.plist */,
+				4EB9BA0429107907003DBAED /* App */,
+				4EB9BA03291078E8003DBAED /* Displays and Subviews */,
+				4EB9BA1229107A87003DBAED /* Tables */,
+				4EB9BA1A29107B3C003DBAED /* Report */,
+				4EB9BA1E29107B91003DBAED /* Keyboard */,
+				4EB9B9F929107845003DBAED /* Assets.xcassets */,
+				4EB9B9FB29107845003DBAED /* Preview Content */,
+			);
+			path = "Tip Out 2.0";
+			sourceTree = "<group>";
+		};
+		4EB9B9FB29107845003DBAED /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9B9FC29107845003DBAED /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4EB9BA03291078E8003DBAED /* Displays and Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9BA052910794E003DBAED /* InputDisplayView.swift */,
+				4EB9BA0729107981003DBAED /* BasicTextView.swift */,
+				4EB9BA09291079CC003DBAED /* NameAndHoursDisplayView.swift */,
+				4EB9BA0B291079E6003DBAED /* InfoView.swift */,
+				4EB9BA0D29107A28003DBAED /* BackButton.swift */,
+				4EB9BA0F29107A5F003DBAED /* RemoveButton.swift */,
+			);
+			path = "Displays and Subviews";
+			sourceTree = "<group>";
+		};
+		4EB9BA0429107907003DBAED /* App */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9B9F529107844003DBAED /* Tip_Out_2_0App.swift */,
+				4EB9B9F729107844003DBAED /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		4EB9BA1229107A87003DBAED /* Tables */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9BA1329107ABD003DBAED /* NameAndHoursTableView.swift */,
+				4EB9BA1529107ADF003DBAED /* NameAndPercentTableView.swift */,
+			);
+			path = Tables;
+			sourceTree = "<group>";
+		};
+		4EB9BA1A29107B3C003DBAED /* Report */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9BA1729107B1C003DBAED /* TipOutReportView.swift */,
+			);
+			path = Report;
+			sourceTree = "<group>";
+		};
+		4EB9BA1E29107B91003DBAED /* Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				4EB9BA1B29107B66003DBAED /* CustomKeyboardView.swift */,
+			);
+			path = Keyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4EB9B9F129107844003DBAED /* Tip Out 2.0 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4EB9BA0029107845003DBAED /* Build configuration list for PBXNativeTarget "Tip Out 2.0" */;
+			buildPhases = (
+				4EB9B9EE29107844003DBAED /* Sources */,
+				4EB9B9EF29107844003DBAED /* Frameworks */,
+				4EB9B9F029107844003DBAED /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Tip Out 2.0";
+			productName = "Tip Out 2.0";
+			productReference = 4EB9B9F229107844003DBAED /* Tip Out 2.0.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4EB9B9EA29107844003DBAED /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					4EB9B9F129107844003DBAED = {
+						CreatedOnToolsVersion = 14.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 4EB9B9ED29107844003DBAED /* Build configuration list for PBXProject "Tip Out 2.0" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4EB9B9E929107844003DBAED;
+			productRefGroup = 4EB9B9F329107844003DBAED /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4EB9B9F129107844003DBAED /* Tip Out 2.0 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4EB9B9F029107844003DBAED /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4EB9B9FD29107845003DBAED /* Preview Assets.xcassets in Resources */,
+				4EB9B9FA29107845003DBAED /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4EB9B9EE29107844003DBAED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4EB9BA1829107B1C003DBAED /* TipOutReportView.swift in Sources */,
+				4EB9BA0829107981003DBAED /* BasicTextView.swift in Sources */,
+				4EB9BA1C29107B66003DBAED /* CustomKeyboardView.swift in Sources */,
+				4EB9B9F829107844003DBAED /* ContentView.swift in Sources */,
+				4EB9BA062910794E003DBAED /* InputDisplayView.swift in Sources */,
+				4EB9B9F629107844003DBAED /* Tip_Out_2_0App.swift in Sources */,
+				4EB9BA0C291079E6003DBAED /* InfoView.swift in Sources */,
+				4EB9BA1429107ABD003DBAED /* NameAndHoursTableView.swift in Sources */,
+				4EB9BA0E29107A28003DBAED /* BackButton.swift in Sources */,
+				4EB9BA0A291079CC003DBAED /* NameAndHoursDisplayView.swift in Sources */,
+				4EB9BA1629107AE0003DBAED /* NameAndPercentTableView.swift in Sources */,
+				4EB9BA1029107A5F003DBAED /* RemoveButton.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		4EB9B9FE29107845003DBAED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4EB9B9FF29107845003DBAED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4EB9BA0129107845003DBAED /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Tip Out 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = WQ4V34Q2TF;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Tip-Out-2-0-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moore.Skyy.Tip-Out";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		4EB9BA0229107845003DBAED /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Tip Out 2.0/Preview Content\"";
+				DEVELOPMENT_TEAM = WQ4V34Q2TF;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Tip-Out-2-0-Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 3.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Moore.Skyy.Tip-Out";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4EB9B9ED29107844003DBAED /* Build configuration list for PBXProject "Tip Out 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4EB9B9FE29107845003DBAED /* Debug */,
+				4EB9B9FF29107845003DBAED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4EB9BA0029107845003DBAED /* Build configuration list for PBXNativeTarget "Tip Out 2.0" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4EB9BA0129107845003DBAED /* Debug */,
+				4EB9BA0229107845003DBAED /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4EB9B9EA29107844003DBAED /* Project object */;
+}
