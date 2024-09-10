@@ -5,7 +5,7 @@
 ## Tip Out is an iOS app dedicated to making tip distribution easy for bar teams and waiters. 
 
 Tip Out was developed and maintained solely by myself, Skyy Moore, during the Covid-19 lockdowns in Los Angeles, CA.
-The app was available on the Apple App Sotre from June 2022 to August 2023. 
+The app was available on the Apple App Store from June 2022 to August 2023. 
 
 Created with no formal training, this project reflects a journey of learning, dedication,
 and a deep understanding of what bartenders and waiters need to calculate complicated tip out formulas at the end of long shift.
