@@ -1,8 +1,8 @@
-OVERVIEW
+# OVERVIEW
 
-Good day at the official repository for Tip Out. 
+## Good day at the official repository for Tip Out. 
 
-Tip Out is an iOS app dedicated to making tip distribution easy for bar teams and waiters. 
+## Tip Out is an iOS app dedicated to making tip distribution easy for bar teams and waiters. 
 
 Tip Out was developed and maintained solely by myself, Skyy Moore, during the Covid-19 lockdowns in Los Angeles, CA.
 The app was available on the Apple App Sotre from June 2022 to August 2023. 
@@ -10,13 +10,13 @@ The app was available on the Apple App Sotre from June 2022 to August 2023.
 Created with no formal training, this project reflects a journey of learning, dedication,
 and a deep understanding of what bartenders and waiters need to calculate complicated tip out formulas at the end of long shift.
 
-FEATURES
+## FEATURES
 
 - Easy to use interface, just answers the question and it modifies the formula for you.
 - Will accept as many bartenders or departments for tipping out as needed.
 - Generates an easy to understand report which can be screen shoted and send off to the rest of the team.
 
-DEVELOPEMENT
+## DEVELOPEMENT
 
 Tip Out was coded in the Xcode IDE and submitted and reviewed by the Apple Store Connect Team.
 It required organizing an LLC in the state of California, called Moore Apps LLC and acquirning a business bank account.
