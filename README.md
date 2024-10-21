@@ -2,6 +2,8 @@
 ## This app was featured on the Apple App Store
 ### This app makes it easy for the closing bartender to create a Tip Out Report for the whole bar team.
 
+
+**Basics**
 Tip Out has a minimalist, sleek aesthetic presented in Dark Mode. Tip Out is intuitive and most of the prompts are self-explanatory. I did not like the standard iOS keyboard for Tip Out, so I built a custom keyboard and number pad that only features unable characters and fits the visual theme of the app.
 
 **How to Use:**
