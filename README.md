@@ -34,7 +34,7 @@ Tip Out has a minimalist, sleek aesthetic presented in Dark Mode. Tip Out is int
 
 ![Alt text](./images/barback_hours200.png)
 
-8. Review the Tip Out Report to know how much everyone is paid. You can review it and go back to make edits and if you want you can screenshot the report to text to everyone in the team.
+8. Review the Tip Out Report to know how much everyone is paid. You can review it and go back to make edits and if you want you can screenshot the report to text to everyone in the team. The Tip Out Report is scrollable so it doesn't matter how many bartenders and barbacks you include.
 
 ![Alt text](./images/report1_200.png)
 ![Alt text](./images/report2_200.png)
