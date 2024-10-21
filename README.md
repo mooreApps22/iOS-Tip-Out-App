@@ -1,36 +1,25 @@
-# OVERVIEW
+# OVERVIEW of the Tip Out App
+## This app was featured on the Apple App Store
+### This app makes it easy for the closing bartender to create a Tip Out Report for the whole bar team.
 
-## Good day at the official repository for Tip Out. 
+Tip Out has a minimalist, sleek aesthetic presented in Dark Mode. Tip Out is intuitive and most of the prompts are self-explanatory. I did not like the standard iOS keyboard for Tip Out, so I built a custom keyboard and number pad that only features unable characters and fits the visual theme of the app.
 
-## Tip Out is an iOS app dedicated to making tip distribution easy for bar teams and waiters. 
+**How to Use:**
 
-![Alt text](./images/any_barbacks200.png)
-![Alt text](./images/barback_hours200.png)
-![Alt text](./images/barback_percent200.png)
-![Alt text](./images/bar_or_waiter200.png)
-![Alt text](./images/bartender_hours200.png)
-![Alt text](./images/report1_200.png)
-![Alt text](./images/report2_200.png)
-![Alt text](./images/start200.png)
-![Alt text](./images/tip_amount200.png)
-
-
-
-Tip Out was developed and maintained solely by myself, Skyy Moore, during the Covid-19 lockdowns in Los Angeles, CA.
-The app was available on the Apple App Store from June 2022 to August 2023. 
-
-Created with no formal training, this project reflects a journey of learning, dedication,
-and a deep understanding of what bartenders and waiters need to calculate complicated tip out formulas at the end of long shift.
-
-## FEATURES
-
-- Easy to use interface, just answers the question and it modifies the formula for you.
-- Will accept as many bartenders or departments for tipping out as needed.
-- Generates an easy to understand report which can be screen shoted and send off to the rest of the team.
-
-## DEVELOPEMENT
-
-Tip Out was coded in the Xcode IDE and submitted and reviewed by the Apple Store Connect Team.
-It required organizing an LLC in California, Moore Apps LLC, and acquiring a business bank account.
-I used the Model-View-Controller design pattern. 
-The final version of Tip Out used the SwiftUI framework, but the earlier version used the more traditional UIKit approach. 
+1. Hit Start to begin.
+   ![Alt text](./images/start200.png)
+2. Selection your position. This app is meant for bartenders or waiters. 
+   ![Alt text](./images/bar_or_waiter200.png)
+3. If you worked with barback, tap Yes, otherwise tap No.
+   ![Alt text](./images/any_barbacks200.png)
+4. What percentage of the tips does your bar allocate for the barbacks? 
+   ![Alt text](./images/barback_percent200.png)
+5. Enter the amount of tips the entire bar team pooled together.
+   ![Alt text](./images/tip_amount200.png)
+6. Enter the name and hours of each bartender.
+   ![Alt text](./images/bartender_hours200.png)
+7. Enter the name and hours of each barback.
+   ![Alt text](./images/barback_hours200.png)
+8. Review the Tip Out Report to know how much everyone is paid. You can review it and go back to make edits and if you want you can screenshot the report to text to everyone in the team.
+   ![Alt text](./images/report1_200.png)
+   ![Alt text](./images/report2_200.png)
