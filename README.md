@@ -9,7 +9,6 @@
 ![Alt text](./images/barback_percent200.png)
 ![Alt text](./images/bar_or_waiter200.png)
 ![Alt text](./images/bartender_hours200.png)
-![Alt text](./images/goon.sh)
 ![Alt text](./images/report1_200.png)
 ![Alt text](./images/report2_200.png)
 ![Alt text](./images/start200.png)
