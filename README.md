@@ -2,6 +2,9 @@
 ## This app was featured on the Apple App Store
 ### This app makes it easy for the closing bartender to create a Tip Out Report for the whole bar team.
 
+**Backstory**
+
+This is my first-ever project and Swift is the first computer language I learned. I taught myself to code during the COVID-19 lockdown. I was bartending in Los Angeles and all the bars were closed. I had a lot of free time so I decided to pick up a new skill. I fell in love with programming and decided to pursue it. Since then I've been coding non-stop.
 
 **Basics**
 
