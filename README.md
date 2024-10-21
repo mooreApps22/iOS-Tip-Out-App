@@ -19,6 +19,6 @@ and a deep understanding of what bartenders and waiters need to calculate compli
 ## DEVELOPEMENT
 
 Tip Out was coded in the Xcode IDE and submitted and reviewed by the Apple Store Connect Team.
-It required organizing an LLC in the state of California, called Moore Apps LLC and acquirning a business bank account.
+It required organizing an LLC in California, Moore Apps LLC, and acquiring a business bank account.
 I used the Model-View-Controller design pattern. 
 The final version of Tip Out used the SwiftUI framework, but earlier version used the more traditional UIKit approach. 
