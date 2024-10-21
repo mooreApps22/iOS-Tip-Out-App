@@ -6,6 +6,8 @@
 
 This is my first-ever project and Swift is the first computer language I learned. I taught myself to code during the COVID-19 lockdown. I was bartending in Los Angeles and all the bars were closed. I had a lot of free time so I decided to pick up a new skill. I fell in love with programming and decided to pursue it. Since then I've been coding non-stop.
 
+In order to put this app on the Apple App Store I had to start a business, get a business bank account, become a Trusted Apple Developer, and go through the Apple Store Connect re-process. This app generates sales and has been used in real-world work environments. It was an invaluable experience and I learned a lot.
+
 **Basics**
 
 Tip Out has a minimalist, sleek aesthetic presented in Dark Mode. Tip Out is intuitive and most of the prompts are self-explanatory. I did not like the standard iOS keyboard for Tip Out, so I built a custom keyboard and number pad that only features unable characters and fits the visual theme of the app.
